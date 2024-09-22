@@ -29,9 +29,9 @@ The following REQUIRED files are included:
   - [X] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 ##  Gif Building Process
-<img src='bp3.gif' title='Video Demo' width='' alt='Video Demo' />
-<img src='bp1.gif' title='Video Demo' width='' alt='Video Demo' />
-<img src='bp2.gif' title='Video Demo' width='' alt='Video Demo' />
+![bp3](https://github.com/user-attachments/assets/f3de3b65-0eaf-4704-a979-ae6f69d55fcf)
+
+
 
 
 ## 🎥 Demo Video
