@@ -28,18 +28,9 @@ The following REQUIRED files are included:
 - [X] Our 🎥 Demo Video
   - [X] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
-##  Gif Building Process
-![bp3](https://github.com/user-attachments/assets/f3de3b65-0eaf-4704-a979-ae6f69d55fcf)
-
-[bp2.gif.zip](https://github.com/user-attachments/files/17088094/bp2.gif.zip)
-
-[Uploading bp1.gif.zip…]()
-
-## 🎥 Demo Video
-
-Here's a video that demos all of the app's implemented features:
-
 ![demoappgif](https://github.com/user-attachments/assets/6e53cbe4-ef30-487a-adb9-d606bd83ae11)
+
+![bp3](https://github.com/user-attachments/assets/f3de3b65-0eaf-4704-a979-ae6f69d55fcf)
 
 
 VIDEO created with **KAP**
