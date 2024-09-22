@@ -1,4 +1,4 @@
-# AND101_RecipeApp Milestone 2
+# AND101_RecipeApp
 
 Submitted by:
 - **Noely Guzman**
